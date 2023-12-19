@@ -11,7 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning Tensorflow and brushing on NLP and deep learning fundamentals
 * ⚡  Outside the realm of coding, you'll likely discover me either indulging in the art of culinary creation or immersed in the captivating world of anime.
 
-### Skills
 
 
 # 💻 Tech Stack:
@@ -19,11 +18,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-### Socials
+# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saqib-siddiqui-8383a421a/) 
 
-### Badges
+# 📊 GitHub Stats
 
 <b>My GitHub Stats</b>
 
