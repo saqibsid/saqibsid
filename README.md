@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Self-taught Data Sorcerer | Crafting actionable insights from raw data. 🔮 | Enthusiastically delving into the realms of data science
 
 * 🌍  I'm based in Mumbai, India
-* 🚀  I'm currently working on [SprachMagic](https://github.com/saqibsid/SprachMagic)
+* 🚀  I'm currently working on [Mlopsify](https://github.com/saqibsid/Opsify)
 * 🧠  I'm learning Tensorflow and brushing on NLP and deep learning fundamentals
 * ⚡  Outside the realm of coding, you'll likely discover me either indulging in the art of culinary creation or immersed in the captivating world of anime.
 
